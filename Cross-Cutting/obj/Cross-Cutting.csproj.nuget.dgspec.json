@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yasemin\\Desktop\\Identity-Authorization-Authentication\\NLayerStudent - Kopya\\Cross-Cutting\\Cross-Cutting.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yasemin\\Desktop\\Identity-Authorization-Authentication\\NLayerStudent - Kopya\\Cross-Cutting\\Cross-Cutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yasemin\\Desktop\\Identity-Authorization-Authentication\\NLayerStudent - Kopya\\Cross-Cutting\\Cross-Cutting.csproj",
+        "projectName": "Cross-Cutting",
+        "projectPath": "C:\\Users\\yasemin\\Desktop\\Identity-Authorization-Authentication\\NLayerStudent - Kopya\\Cross-Cutting\\Cross-Cutting.csproj",
+        "packagesPath": "C:\\Users\\yasemin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yasemin\\Desktop\\Identity-Authorization-Authentication\\NLayerStudent - Kopya\\Cross-Cutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\Offline Packages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yasemin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.0.0-preview3.22168.1, )"
+            },
+            "NLog.Appsettings.Standard": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2-beta1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

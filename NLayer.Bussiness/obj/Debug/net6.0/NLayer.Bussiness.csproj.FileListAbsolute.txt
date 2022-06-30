@@ -1,0 +1,76 @@
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.AssemblyReference.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfoInputs.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfo.cs
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.deps.json
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CopyComplete
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\refint\NLayer.Bussiness.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Bussiness\obj\Debug\net6.0\ref\NLayer.Bussiness.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.deps.json
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.AssemblyReference.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfoInputs.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfo.cs
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CopyComplete
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\refint\NLayer.Bussiness.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\ref\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.deps.json
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CopyComplete
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\refint\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Bussiness\obj\Debug\net6.0\ref\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.deps.json
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.DataAccess.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\bin\Debug\net6.0\NLayer.Entity.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.csproj.CopyComplete
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\refint\NLayer.Bussiness.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\NLayer.Bussiness.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Bussiness\obj\Debug\net6.0\ref\NLayer.Bussiness.dll

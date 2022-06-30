@@ -1,0 +1,84 @@
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Projects\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\NLayerTemplate\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\Downloads\NLayerStudent-main\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yukse\source\repos\NLayerStudent\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\yasemin\Desktop\Identity-Authorization-Authentication\NLayerStudent - Kopya\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
